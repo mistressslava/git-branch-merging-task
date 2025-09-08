@@ -1,5 +1,7 @@
 # Git Branches and Rebasing Task
-# Hello from B
+
+## Hello from B
+## Hello from A
 
 Zweier Gruppen (Person A & Person B)
 Einer forked das Repository mit allen branches und lädt den anderen als Contributer ein.
